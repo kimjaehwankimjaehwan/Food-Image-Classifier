@@ -18,4 +18,4 @@ A program that tells you whether a food is good or bad for diabetes based on its
   8: 빵
   9: 사과파이
 
-## 내부 로컬망에  yolo 모델을 이용하여 캠카메라 혹은 핸드폰 카메라로 음식을 찍으면 객체를 탐지하고 해당 음식이 당뇨병의 영향에 대해 설명하는 서비스를 구현하였습니다.   
+## yolo 모델을 이용하여 캠카메라 혹은 핸드폰 카메라로 음식을 찍으면 객체를 탐지하고 해당 음식이 당뇨병의 영향에 대해 설명하는 서비스를 구현하였습니다.   
